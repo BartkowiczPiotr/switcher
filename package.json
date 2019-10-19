@@ -1,0 +1,9 @@
+{
+  "name": "@pbartkowicz/vueswitch",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "switcher.vue",
+  "author": "Piotr Bartkowicz",
+  "license": "ISC"
+}
